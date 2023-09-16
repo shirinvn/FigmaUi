@@ -1,5 +1,11 @@
 
+Music playe
+
+![iPhone 14 - 1](https://github.com/shirinvn/FigmaUi/assets/62846862/00cb1859-10ba-44da-9511-b9ad33f4da6c)
+
+
 Food app
+
 
 ![FoodApp](https://github.com/shirinvn/FigmaUi/assets/62846862/cb71b899-8a40-468c-abca-e5b8881a31a2)
 
