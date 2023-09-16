@@ -12,10 +12,7 @@ Mechanic app
 
 
 Perfume shop app
-
-file:///D:/Downloads/perfume%20(1).svg
-
-
+![perfume (1)](https://github.com/shirinvn/FigmaUi/assets/62846862/4725df6f-38d0-42e8-95f8-f7aec00ffbf8)
 
 Cookie shop
 
