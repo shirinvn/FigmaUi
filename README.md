@@ -1,4 +1,10 @@
 
+piiza store
+
+![iPhone 14   15 Pro - 1](https://github.com/shirinvn/FigmaUi/assets/62846862/be1cb70c-affe-4bff-81eb-da9fd3249c0e)
+
+
+
 Music playe
 
 ![iPhone 14 - 1](https://github.com/shirinvn/FigmaUi/assets/62846862/00cb1859-10ba-44da-9511-b9ad33f4da6c)
